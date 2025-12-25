@@ -24,12 +24,6 @@ This is the core code for a real-time AI vision project based on DXGI, TensorRT,
 
 ---
 
-### **⚠️ Important Disclaimer**
-
-* **99% of the code in this project was generated with AI assistance**, therefore all code is piled up in `main.cpp`, resulting in a somewhat disorganized structure and potentially unclear comments. This repository aims to share a feasible technical approach, not an engineering project.
-
-* **Only the core code is uploaded.** All dependencies (such as OpenCV, ONNX Runtime, CUDA, etc.) must be configured by the user.
-
 * The `.onnx` model in the repository is only an example. You need to train it yourself and replace it with your own model.
 
 * **This project is for learning and technical exchange only.** It is strictly prohibited for any illegal use. All consequences are the sole responsibility of the user.
